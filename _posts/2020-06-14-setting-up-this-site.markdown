@@ -16,9 +16,7 @@ Then I set up a Jekyll project (Minima theme) and turned that to a `Git` reposti
 
 `$ jekyll new z10011.github.io`
 
-`$ cd z10011.github.io`
-
-`$ git init`
+(In the new project folder) `$ git init`
 
 Then, I was able to edit the content of the my site.
 
